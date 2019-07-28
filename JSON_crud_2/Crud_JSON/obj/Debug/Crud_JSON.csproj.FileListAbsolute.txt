@@ -1,0 +1,11 @@
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Crud_JSON.exe.config
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Crud_JSON.exe
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Crud_JSON.pdb
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Newtonsoft.Json.pdb
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\obj\Debug\Crud_JSON.csprojAssemblyReference.cache
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\obj\Debug\Crud_JSON.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\obj\Debug\Crud_JSON.csproj.CopyComplete
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\obj\Debug\Crud_JSON.exe
+C:\Temp\GitHub\JSON_crud_2\Crud_JSON\obj\Debug\Crud_JSON.pdb
